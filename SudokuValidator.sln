@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuValidator", "SudokuValidator\SudokuValidator.csproj", "{6BCC9DAB-3480-4056-8B4A-8CE8E6727F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCC9DAB-3480-4056-8B4A-8CE8E6727F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCC9DAB-3480-4056-8B4A-8CE8E6727F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCC9DAB-3480-4056-8B4A-8CE8E6727F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCC9DAB-3480-4056-8B4A-8CE8E6727F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
